@@ -1,7 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:sqlcool/sqlcool.dart';
 import 'package:geopoint/geopoint.dart';
-
 import 'geopoint.dart';
 import 'geoserie.dart';
 
